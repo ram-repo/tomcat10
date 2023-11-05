@@ -1,4 +1,4 @@
-# tomcat10 installation
+# tomcat10
 
 # create tomcat user and directory
 
